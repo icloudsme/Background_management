@@ -1,0 +1,8 @@
+1、进入到/Users/huaan/Downloads/Python学习视频/mywebone
+2、执行
+python manage.py runserver 9527
+3、访问地址
+a、后台
+http://127.0.0.1:9527/admin/
+b、前台
+http://127.0.0.1:9527/blog/index
